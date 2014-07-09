@@ -1,0 +1,7 @@
+#include <QApplication>
+#include <>QPushButton>
+
+int main(inargc,char *argv[])
+{
+QApplication app ()
+}
